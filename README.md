@@ -3,10 +3,16 @@
 Welcome to the code snippets repository! Here you can find different project templates. Each template is available in its own branch.
 
 ### Available Templates:
-- [Vite React TypeScript Setup](https://github.com/snippets/tree/vite-react-ts)
-- [Vite React JavaScript Setup](https://github.com/snippets/tree/vite-react-js)
-- [Node Express Setup](https://github.com/snippets/tree/node-express)
-- [Node Express with Sequelize Setup](https://github.com/snippets/tree/node-express-sequelize)
+#### React.JS:
+- [Vite React JavaScript Setup](https://github.com/jyotishankarp/snippets/tree/vite-react-js)
+- [Vite React TypeScript Setup](https://github.com/jyotishankarp/snippets/tree/vite-react-ts)
+- [Vite React all-in-one Setup(.ts)](https://github.com/jyotishankarp/snippets/tree/vite-react-all)
+#### Node.JS:
+- [Node Express JavaScript Setup](https://github.com/jyotishankarp/snippets/tree/node-express-js)
+- [Node Express TypeScript Setup](https://github.com/jyotishankarp/snippets/tree/node-express-ts)
+- [Node Express with Sequelize Setup(.js)](https://github.com/jyotishankarp/snippets/tree/node-express-sequelize-js)
+- [Node Express with Sequelize Setup(.ts)](https://github.com/jyotishankarp/snippets/tree/node-express-sequelize-ts)
+- [Node Express all-in-one Setup(.ts)](https://github.com/jyotishankarp/snippets/tree/node-express-all)
 
 ### How to Use:
 1. Clone a specific branch:
