@@ -3,10 +3,10 @@
 Welcome to the code snippets repository! Here you can find different project templates. Each template is available in its own branch.
 
 ### Available Templates:
-- [Vite React TypeScript Setup](https://github.com/your-repo/tree/vite-react-ts)
-- [Vite React JavaScript Setup](https://github.com/your-repo/tree/vite-react-js)
-- [Node Express Setup](https://github.com/your-repo/tree/node-express)
-- [Node Express with Sequelize Setup](https://github.com/your-repo/tree/node-express-sequelize)
+- [Vite React TypeScript Setup](https://github.com/snippets/tree/vite-react-ts)
+- [Vite React JavaScript Setup](https://github.com/snippets/tree/vite-react-js)
+- [Node Express Setup](https://github.com/snippets/tree/node-express)
+- [Node Express with Sequelize Setup](https://github.com/snippets/tree/node-express-sequelize)
 
 ### How to Use:
 1. Clone a specific branch:
